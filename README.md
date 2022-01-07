@@ -2,7 +2,7 @@
 
 ### I'm a third year undergraduate student studying Computer Engineering at the University of British Columbia! 💻
 
-- 🧑‍🤝‍🧑 I'm currently in school, but I'm looking for co-op opportunities starting May 2022!
+- 🧑‍🤝‍🧑 I'm currently in school, but I'm **looking for co-op opportunities starting May 2022**!
 - 🌱 I’m currently learning more about frontend (React) and algorithms through LeetCode.
 
 ### Connect with me:
