@@ -2,8 +2,8 @@
 
 ### I'm a fourth year undergraduate student studying Computer Engineering at the [University of British Columbia](https://www.ubc.ca/)! 💻
 
-- 🧑‍🤝‍🧑 I'm currently on a co-op term @Samsung until September 2023, and will return to finish my degree afterwards!
-- 🌱 I’m currently learning more about frontend (React) and microfrontend applications using Module Federation!
+- 🧑‍🤝‍🧑 I'm currently back in school after 16 months of co-op, on track to graduating this coming Spring!
+- 🌱 I’m currently learning more about machine learning and cybersecurity in my upper year courses! In the following term I look forward to learning more about deep learning.
 
 ### Connect with me:
 
