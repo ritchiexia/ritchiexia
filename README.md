@@ -2,7 +2,7 @@
 
 ### I'm a recent Computer Engineering graduate at the [University of British Columbia](https://www.ubc.ca/)! 💻
 
-- 🧑‍🤝‍🧑 Working on [ArrowLex](https://app.arrowlex.ai/)
+- 🧑‍🤝‍🧑 Prepping lawyers for depositions with [ArrowLex](https://app.arrowlex.ai/)
 - 🔎 Looking for full time web development positions!
 
 ### Connect with me:
